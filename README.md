@@ -45,4 +45,4 @@ CodeAlpha_HangmanGame/
 
 **Saksham Srivastava**
 
-Python Programming Intern @ CodeAlpha
+Python Programming Intern @CodeAlpha
